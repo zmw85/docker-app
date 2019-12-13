@@ -1,0 +1,13 @@
+{
+  "name": "docker-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "chmod +x ./*/*.sh",
+    "pgadmin": "./pgadmin/docker-run.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
